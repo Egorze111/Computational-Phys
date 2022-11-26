@@ -9,7 +9,7 @@ C) evaluate an integral using gaussian quadrature and calculate the uncertainty 
 from numpy import sqrt, Inf, zeros
 from math import factorial, pi, exp
 from matplotlib.pyplot import plot, show, legend
-from gaussxw import *
+from derivatives.gaussxw import *
 
 
 ## function for Hermite Polynomial
